@@ -6,16 +6,13 @@ title: Home
     <img src="{{ "/images/nerdy2matologo.jpg" | absolute_url }}" alt="nerdy2matologo" style="width:20%;" >
 </div>
 
-# Build a Website with Jekyll and GitHub Pages 
+# Hi,
 
-With [GitHub pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) you can quickly create and publish a website for free! 
-It is an ideal solution for creating a simple project or personal site to highlight your academic work. 
+My name is Rachel Huang (or you can call me Nerdy2mato). I am a data scientist.
 
-This workshop will introduce the basics of using the popular static website generator Jekyll integrated with GitHub pages. 
-You will learn how to set up a project repository, write content in Markdown, and publish your site, all using GitHub's user friendly web interface. 
-Advanced usage of Jekyll for local web development is introduced final section.
+I love learning statistics, machine learning and coding. I started teaching myself since four years ago. Recently, I decided to share what I have learned along the way because I believe that the best way of learning is to share what you have learned.
 
-Watch [workshop screen cast](https://youtu.be/SWVjQsvQocA) for full content.
+On this site, I will be writing [blogs](https://rachelqhuang.github.io/blogs) about everything I have learned that I think worth sharing. I will also include my projects using machine learning. I also love reading statistical books. I will write reviews about the books I read.
 
 <div class="toc" markdown="1">
 ## Contents:
