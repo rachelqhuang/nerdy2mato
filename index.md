@@ -13,11 +13,3 @@ My name is Rachel Huang (or you can call me Nerdy2mato). I am a data scientist.
 I love learning statistics, machine learning and coding. I started teaching myself since four years ago. Recently, I decided to share what I have learned along the way because I believe that the best way of learning is to share what you have learned.
 
 On this site, I will be writing [blogs](https://rachelqhuang.github.io/blogs) about everything I have learned. I will also include my machine learning related projects as well as writing about the books I have read amd am reading.
-
-<div class="toc" markdown="1">
-## Contents:
-
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | absolute_url }}){% endif %}
-{% endfor %}
-</div>
