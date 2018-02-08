@@ -3,7 +3,7 @@ title: Home
 ---
 
 <div> 
-    <img src="{{ "/images/nerdy2matologo.jpg" | absolute_url }}" alt="nerdy2matologo" style="width:30%;" >
+    <img src="{{ "/images/nerdy2matologo.jpg" | absolute_url }}" alt="nerdy2matologo" style="width:20%;" >
 </div>
 
 # Build a Website with Jekyll and GitHub Pages 
