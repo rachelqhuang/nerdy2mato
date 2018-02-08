@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Introduction
-nav: True
+title: Me
+nav: False
 ---
 
 **Hello World! Nice to meet you!**
-
-My name is Michael Angelo. I am a data scientist.
 
 There are three things that I love the most in this world:
 
