@@ -21,7 +21,7 @@
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 
 # site settings
 title: A safe haven for learning and sharing
