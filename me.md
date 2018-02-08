@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Me
-nav: False
+nav: True
 ---
 
 **Hello World! Nice to meet you!**
