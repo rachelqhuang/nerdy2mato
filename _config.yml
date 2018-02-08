@@ -18,6 +18,11 @@
 # - pages with "nav: true" in front matter will be in header nav
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
+
+# Build settings
+markdown: kramdown
+theme: minima
+
 # site settings
 title: A safe haven for learning and sharing
 description: > 
@@ -49,6 +54,4 @@ defaults:
     values:
       layout: default
 
-# Build settings
-markdown: kramdown
-theme: minima
+
