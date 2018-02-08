@@ -19,9 +19,9 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # site settings
-title: A safe haven to write about the new things I am learning
+title: A safe haven for sharing
 description: > 
-  Learn about statistics, applied machine learning and python. 
+  Share what I have learned. 
 keywords: "statistics, machine learning, analysis, python"
 
 # author settings for cc-by
