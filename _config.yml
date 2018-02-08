@@ -1,10 +1,53 @@
 # basic options
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+# title: Your awesome title
+# author: GitHub User
+# email: your-email@domain.com
+# description: A wonderful site
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+# markdown: kramdown
+# theme: minima
+
+# Jekyll workshop-template https://github.com/evanwill/workshop-template
+# based on minima theme https://github.com/jekyll/minima
+
+# Notes: 
+# - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
+# - pages with "nav: true" in front matter will be in header nav
+# - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
+
+# site settings
+title: A safe haven to write about the new things I am learning
+description: > 
+  Learn about statistics, applied machine learning and python. 
+keywords: "statistics, machine learning, analysis, python"
+
+# author settings for cc-by
+author: Michael Angelo
+email: rachel.hwung@gmail.com
+pub_year: 2018
+github_username: rachelqhuang
+
+# add the full url for the github repository
+repo: "https://github.com/rachelqhuang/nerdy2mato"
+
+# urls
+# your gh-pages url: https://username.github.io
+url: https://rachelqhuang.github.io
+# your repository name: /repository
+baseurl: /nerdy2mato
+
+# analytics if desired (and use environment variable on build command)
+# google_analytics: UA-74844011-1
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 
 # Build settings
 markdown: kramdown

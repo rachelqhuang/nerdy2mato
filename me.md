@@ -1,9 +1,10 @@
 ---
 layout: page
-title: introduction
+title: Introduction
+nav: True
 ---
 
-***Hello World! Nice to meet you!***
+**Hello World! Nice to meet you!**
 
 My name is Michael Angelo. I am a data scientist.
 
